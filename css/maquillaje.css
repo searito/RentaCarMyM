@@ -1,0 +1,81 @@
+
+@font-face {
+font-family: "Slabo27px";
+src: url('../fonts/Slabo27px.ttf') format("truetype");
+}
+
+body{
+	font-family: 'Lato';
+	font-size: 1.0em;
+	background-color: #f4f4f4;
+}
+
+.slavo{
+	font-family: 'Slabo27px', Arial;
+}
+
+.upSpace{
+	margin-top: 5%;
+}
+
+.titulo{
+	font-size: 2.9em;
+}
+
+.subtitulo{
+	font-size: 2.2em;
+}
+
+.azulDark{
+	color: #3a4f64;
+}
+
+.lila{
+	color: #858ca6;
+}
+
+.verdeAzul{
+	color: #026579;
+}
+
+.verdeCeleste{
+	color: #7baeb2;
+}
+
+.azul{
+	color: #009FFF;
+}
+
+.verde{
+	color: #00887C;
+}
+
+img{
+	max-width: 100%;
+	height: auto;
+}
+
+.borde{
+	border: 2px solid #000;
+}
+
+.mediano{
+	font-size: 1.7em;
+}
+
+a{
+	text-decoration: none;
+}
+
+.centro{
+	text-align: center;
+}
+
+.pie{
+	text-align: center;
+	color: #99;
+	font-size: 1.0em;
+	padding-top: 1%;
+}
+
+.ui-progressbar .ui-progressbar-value { background-image: url(ui/development-bundle/demos/images/pbar-ani.gif); }
